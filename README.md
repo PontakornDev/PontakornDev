@@ -6,6 +6,7 @@
 
 ## 📫 Social
 [![Facebook Badge](https://img.shields.io/badge/-C.Pontakorn-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/pontakorn.changpat/)](https://www.facebook.com/pontakorn.changpat)
+[![Instagram Badge](https://img.shields.io/badge/-C.PTK_199x-FF0000?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/c.ptk_199x/)](https://www.instagram.com/c.ptk_199x)
 
 ### challenge
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PontakornDev&repo=Internship-challenge)](https://github.com/PontakornDev/Internship-challenge)
